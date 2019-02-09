@@ -1,6 +1,5 @@
 # Configuration
 
----
 FPGA는 반드시 SPI or BPI Flash Memory와 함께 사용되어집니다.
 
 ## FPGA는 왜 SPI or BPI Flash Memory가 필요한가?
